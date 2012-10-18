@@ -13,7 +13,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-import os,urllib
+import os
+import urllib
 from ConfigParser import ConfigParser, NoSectionError, NoOptionError, \
     RawConfigParser
 
